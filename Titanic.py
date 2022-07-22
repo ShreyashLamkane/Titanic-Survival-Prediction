@@ -31,7 +31,7 @@ from sklearn import metrics
 # In[3]:
 
 
-df_train=pd.read_csv("E:/Placement courses/ML Projects/Titanic/train.csv")
+df_train=pd.read_csv("train.csv")
 df_train.shape
 
 
